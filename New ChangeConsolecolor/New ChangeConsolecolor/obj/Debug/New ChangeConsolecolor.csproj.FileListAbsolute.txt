@@ -1,0 +1,6 @@
+D:\Udeamy_c#\Section_1\New ChangeConsolecolor\New ChangeConsolecolor\bin\Debug\New ChangeConsolecolor.exe.config
+D:\Udeamy_c#\Section_1\New ChangeConsolecolor\New ChangeConsolecolor\bin\Debug\New ChangeConsolecolor.exe
+D:\Udeamy_c#\Section_1\New ChangeConsolecolor\New ChangeConsolecolor\bin\Debug\New ChangeConsolecolor.pdb
+D:\Udeamy_c#\Section_1\New ChangeConsolecolor\New ChangeConsolecolor\obj\Debug\New ChangeConsolecolor.csprojResolveAssemblyReference.cache
+D:\Udeamy_c#\Section_1\New ChangeConsolecolor\New ChangeConsolecolor\obj\Debug\New ChangeConsolecolor.exe
+D:\Udeamy_c#\Section_1\New ChangeConsolecolor\New ChangeConsolecolor\obj\Debug\New ChangeConsolecolor.pdb
